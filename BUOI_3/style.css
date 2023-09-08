@@ -1,0 +1,13 @@
+.element {
+    display: flex;
+    width: 800px;
+}
+
+.content {
+    margin-left: 20px;
+}
+
+.triangle {
+    position: relative;
+}
+
